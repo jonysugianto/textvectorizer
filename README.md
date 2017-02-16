@@ -25,7 +25,7 @@ requirements:
  3. set PYTHONPATH=./textvectorizer/src
 
  4. python exampe/example_build_dictionary.py
-    # create dictionary (needed for tfidf-vectorizer and lsi-vectorizer)
+    create dictionary (needed for tfidf-vectorizer and lsi-vectorizer)
 
  5. python exampe/example_tfidf_vectorizer.py
 
